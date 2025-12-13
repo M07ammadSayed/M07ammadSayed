@@ -1,16 +1,28 @@
-## Hi there 👋
+### Hi there, I'm Muhammad Sayyid! 👋
+#### Full-Stack Developer | Aspiring DevSecOps Engineer 🛡️
 
-<!--
-**M07ammadSayed/M07ammadSayed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software Engineer based in Egypt, bridging the gap between **Web Development** and **Security Operations**. Currently focusing on building secure, scalable infrastructure and automating workflows.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+* **Languages:** Python 🐍, JavaScript (ES6+), SQL, Bash 🐚
+* **Frontend:** React.js ⚛️, Next.js, Tailwind CSS, Bootstrap
+* **Backend:** Node.js, Express, MongoDB, PostgreSQL
+* **DevOps & Security:** Linux 🐧, Networking Basics, Docker 🐳 (Learning), Automation
+
+---
+
+### 🔭 Currently Working on
+* Developing custom **Security Tools** using Python.
+* Mastering **CI/CD Pipelines** and Cloud Security.
+
+---
+
+### 📫 Connect with me
+* [LinkedIn](https://www.linkedin.com/in/muhammad-sayyid/)
+* [Email](mailto:msayed.ms2005@gmail.com)
+
+---
+![Muhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=M07ammadSayed&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M07ammadSayed&layout=compact&theme=radical&hide_border=true)
