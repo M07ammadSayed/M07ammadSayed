@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Muhammad+Sayyid;Full-Stack+Developer;Application+Security+Engineer;Securing+the+Digital+World" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=29&pause=1000&color=22D3EE&center=true&vCenter=true&width=500&lines=Hi+there,+I'm+Muhammad+Sayyid;Full-Stack+Developer;Application+Security+Engineer;Securing+the+Digital+World" alt="Typing SVG" />
 
 <p align="center">
   <a href="mailto:msayed.ms2005@gmail.com">
