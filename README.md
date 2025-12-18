@@ -11,7 +11,7 @@
   <a href="https://www.linkedin.com/in/muhammad-sayyid/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://github.com/M07ammadSayed">
+  <a href="https://muhammad-sayyid.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit_Site-2ea44f?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
 </p>
