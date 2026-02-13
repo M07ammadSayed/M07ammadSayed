@@ -53,9 +53,17 @@
 ---
 
 <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=M07ammadSayed&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M07ammadSayed&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
-![Muhammad's GitHub stats](https://github-readme-stats.vercel.app/api?username=M07ammadSayed&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000)
-<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M07ammadSayed&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000)
+  <br/><br/>
 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M07ammadSayed&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <a href="https://muhammad-sayyid.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Check%20My%20Portfolio-View%20Projects-blue?style=for-the-badge&logo=vercel" />
+  </a>
 </div>
