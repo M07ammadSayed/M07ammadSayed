@@ -55,8 +55,8 @@
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=M07ammadSayed&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M07ammadSayed&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=M07ammadSayed&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=M07ammadSayed&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
   
   <br/><br/>
   
