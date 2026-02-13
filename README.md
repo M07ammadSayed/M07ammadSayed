@@ -55,12 +55,12 @@
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=M07ammadSayed&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M07ammadSayed&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=M07ammadSayed&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M07ammadSayed&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
   
-  <br/>
+  <br/><br/>
   
-  <img width="490pt" src="https://github-readme-streak-stats.herokuapp.com/?user=M07ammadSayed&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <img width="490" src="https://github-readme-streak-stats.herokuapp.com/?user=M07ammadSayed&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
 </div>
 
 <br/>
